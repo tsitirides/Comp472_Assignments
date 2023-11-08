@@ -1,0 +1,14 @@
+Dataset: performance_top_dt.txt
+Model: Top-DT
+Average Accuracy: 0.9810, Variance: 0.0000
+Average Macro F1: 0.9754, Variance: 0.0001
+Average Weighted F1: 0.9809, Variance: 0.0000
+--------------------------------------------------
+
+Dataset: performance_top_dt.txt
+Model: Top-DT
+Average Accuracy: 0.5426, Variance: 0.0000
+Average Macro F1: 0.5234, Variance: 0.0000
+Average Weighted F1: 0.5224, Variance: 0.0000
+--------------------------------------------------
+

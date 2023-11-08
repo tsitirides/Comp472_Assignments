@@ -1,0 +1,14 @@
+Dataset: performance_base_dt.txt
+Model: Base-DT
+Average Accuracy: 0.9810, Variance: 0.0000
+Average Macro F1: 0.9754, Variance: 0.0001
+Average Weighted F1: 0.9809, Variance: 0.0000
+--------------------------------------------------
+
+Dataset: performance_base_dt.txt
+Model: Base-DT
+Average Accuracy: 0.4769, Variance: 0.0000
+Average Macro F1: 0.4830, Variance: 0.0001
+Average Weighted F1: 0.4794, Variance: 0.0001
+--------------------------------------------------
+

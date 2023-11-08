@@ -1,0 +1,14 @@
+Dataset: performance_top_mlp.txt
+Model: Top-MLP
+Average Accuracy: 0.5214, Variance: 0.0082
+Average Macro F1: 0.2894, Variance: 0.0221
+Average Weighted F1: 0.3786, Variance: 0.0204
+--------------------------------------------------
+
+Dataset: performance_top_mlp.txt
+Model: Top-MLP
+Average Accuracy: 0.5315, Variance: 0.0000
+Average Macro F1: 0.4861, Variance: 0.0011
+Average Weighted F1: 0.4878, Variance: 0.0009
+--------------------------------------------------
+

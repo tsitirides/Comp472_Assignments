@@ -1,0 +1,14 @@
+Dataset: performance_base_mlp.txt
+Model: Base-MLP
+Average Accuracy: 0.4762, Variance: 0.0000
+Average Macro F1: 0.2151, Variance: 0.0000
+Average Weighted F1: 0.3072, Variance: 0.0000
+--------------------------------------------------
+
+Dataset: performance_base_mlp.txt
+Model: Base-MLP
+Average Accuracy: 0.4997, Variance: 0.0000
+Average Macro F1: 0.4021, Variance: 0.0000
+Average Weighted F1: 0.4092, Variance: 0.0000
+--------------------------------------------------
+
